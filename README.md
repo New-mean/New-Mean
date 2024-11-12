@@ -1,4 +1,4 @@
-## Hi there 👋
+##  🌾 미래 농부 개발자 신민재 입니다. 🍠
 
 <!--
 **New-mean/New-Mean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
